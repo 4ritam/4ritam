@@ -1,5 +1,5 @@
-# Hi Everyone, I am Pritam.
-### A Web & App Developer and A Machine Learning Enthusiast.
+<h1 align=center>Hi Everyone, I am Pritam.</h1>
+<h3 align=center>A Web & App Developer and A Machine Learning Enthusiast.</h3>
 
 ## Current Stats
 <img align="left" width="53.75%" src="https://github-readme-stats.vercel.app/api?username=4ritam&count_private=true&show_icons=true&theme=dark" />
