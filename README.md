@@ -1,8 +1,11 @@
 # Hi Everyone, I am Pritam.
 ### A Web & App Developer and A Machine Learning Enthusiast.
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=4ritam&count_private=true&show_icons=true&theme=dark" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ritam&count_private=true&langs_count=6&theme=dark&size_weight=0.2&count_weight=0.3&layout=compact&hide=html" />
 
+## Current Stats
+<img align="left" width="53.75%" src="https://github-readme-stats.vercel.app/api?username=4ritam&count_private=true&show_icons=true&theme=dark" />
+<img align="left" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ritam&count_private=true&langs_count=6&theme=dark&size_weight=0.2&count_weight=0.3&layout=compact&hide=html" /><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+## Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
