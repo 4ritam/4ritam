@@ -1,7 +1,7 @@
 <h1 align=center>Hi Everyone, I am Pritam.</h1>
 <h3 align=center>A Web & App Developer and A Machine Learning Enthusiast.</h3>
 
-<img align="left" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ritam&count_private=true&langs_count=6&theme=dark&size_weight=0.2&count_weight=0.3&layout=compact&hide=html" /><br/><br/><br/><br/><br/><br/><br/><br/>
+<img align="left" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ritam&count_private=true&langs_count=6&theme=dark&layout=compact&hide=html" /><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
